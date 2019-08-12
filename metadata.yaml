@@ -1,5 +1,8 @@
 _repo: The-Poetical-Works-of-Skelton-Volume-2-of-2_59998
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59998-h/images/cover.jpg
 creator:
   author:
     agent_name: Dyce, Alexander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5689
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Dyce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59998#The-Poetical-Works-of-Skelton-Volume-2-of-2
 gutenberg_issued: '2019-07-28'
 gutenberg_type: Text
 identifiers:
